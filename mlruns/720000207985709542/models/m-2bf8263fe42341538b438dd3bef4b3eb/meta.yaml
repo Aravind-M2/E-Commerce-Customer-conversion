@@ -1,0 +1,10 @@
+artifact_location: file:///d:/GIT%20HUB/GUVI%20Mini%20Proj%204/clickstream_venv/E-Commerce-Customer-conversion/mlruns/720000207985709542/models/m-2bf8263fe42341538b438dd3bef4b3eb/artifacts
+creation_timestamp: 1762555760500
+experiment_id: '720000207985709542'
+last_updated_timestamp: 1762555766406
+model_id: m-2bf8263fe42341538b438dd3bef4b3eb
+model_type: null
+name: model
+source_run_id: cfc1a119a0c746e38126bdc81eb3cfd4
+status: 2
+status_message: null

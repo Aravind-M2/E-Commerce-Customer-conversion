@@ -1,0 +1,14 @@
+artifact_uri: file:///d:/GIT%20HUB/GUVI%20Mini%20Proj%204/clickstream_venv/E-Commerce-Customer-conversion/mlruns/720000207985709542/51cc63724c644910aefe13994980f2b7/artifacts
+end_time: 1762555800117
+entry_point_name: ''
+experiment_id: '720000207985709542'
+lifecycle_stage: active
+run_id: 51cc63724c644910aefe13994980f2b7
+run_name: RandomForest
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762555774692
+status: 3
+tags: []
+user_id: Hp

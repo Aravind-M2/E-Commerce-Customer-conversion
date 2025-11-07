@@ -1,0 +1,22 @@
+artifact_path: file:///d:/GIT%20HUB/GUVI%20Mini%20Proj%204/clickstream_venv/E-Commerce-Customer-conversion/mlruns/720000207985709542/models/m-73812c75669546e6b5e1ef6e0e4ce93a/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.11.7
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.2
+mlflow_version: 3.5.1
+model_id: m-73812c75669546e6b5e1ef6e0e4ce93a
+model_size_bytes: 3574
+model_uuid: m-73812c75669546e6b5e1ef6e0e4ce93a
+prompts: null
+run_id: 9f545f2ae3eb41e98d2845605f970b4f
+utc_time_created: '2025-11-07 22:49:28.187767'

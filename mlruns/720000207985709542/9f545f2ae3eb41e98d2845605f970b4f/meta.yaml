@@ -1,0 +1,14 @@
+artifact_uri: file:///d:/GIT%20HUB/GUVI%20Mini%20Proj%204/clickstream_venv/E-Commerce-Customer-conversion/mlruns/720000207985709542/9f545f2ae3eb41e98d2845605f970b4f/artifacts
+end_time: 1762555774672
+entry_point_name: ''
+experiment_id: '720000207985709542'
+lifecycle_stage: active
+run_id: 9f545f2ae3eb41e98d2845605f970b4f
+run_name: DecisionTree
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762555766436
+status: 3
+tags: []
+user_id: Hp

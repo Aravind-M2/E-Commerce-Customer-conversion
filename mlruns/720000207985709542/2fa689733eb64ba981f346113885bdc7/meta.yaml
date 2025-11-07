@@ -1,0 +1,14 @@
+artifact_uri: file:///d:/GIT%20HUB/GUVI%20Mini%20Proj%204/clickstream_venv/E-Commerce-Customer-conversion/mlruns/720000207985709542/2fa689733eb64ba981f346113885bdc7/artifacts
+end_time: 1762555800660
+entry_point_name: ''
+experiment_id: '720000207985709542'
+lifecycle_stage: active
+run_id: 2fa689733eb64ba981f346113885bdc7
+run_name: XGBoost
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762555800128
+status: 4
+tags: []
+user_id: Hp

@@ -1,0 +1,14 @@
+artifact_uri: file:///d:/GIT%20HUB/GUVI%20Mini%20Proj%204/clickstream_venv/E-Commerce-Customer-conversion/mlruns/720000207985709542/9232f092cc834e26871e619ef44f79ce/artifacts
+end_time: 1762556005558
+entry_point_name: ''
+experiment_id: '720000207985709542'
+lifecycle_stage: active
+run_id: 9232f092cc834e26871e619ef44f79ce
+run_name: NeuralNetwork
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762555908303
+status: 3
+tags: []
+user_id: Hp

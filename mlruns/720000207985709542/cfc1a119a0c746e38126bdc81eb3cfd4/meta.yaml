@@ -1,0 +1,14 @@
+artifact_uri: file:///d:/GIT%20HUB/GUVI%20Mini%20Proj%204/clickstream_venv/E-Commerce-Customer-conversion/mlruns/720000207985709542/cfc1a119a0c746e38126bdc81eb3cfd4/artifacts
+end_time: 1762555766427
+entry_point_name: ''
+experiment_id: '720000207985709542'
+lifecycle_stage: active
+run_id: cfc1a119a0c746e38126bdc81eb3cfd4
+run_name: LogisticRegression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762555757743
+status: 3
+tags: []
+user_id: Hp
