@@ -1,0 +1,10 @@
+artifact_location: mlflow-artifacts:/249346077861570294/models/m-aee3ea9af8e44d41bf2a7f117075e4c2/artifacts
+creation_timestamp: 1762478452724
+experiment_id: '249346077861570294'
+last_updated_timestamp: 1762478458987
+model_id: m-aee3ea9af8e44d41bf2a7f117075e4c2
+model_type: ''
+name: customer order prediction
+source_run_id: 73aa74517e69408a8b3f9e4402e5753c
+status: 2
+status_message: null

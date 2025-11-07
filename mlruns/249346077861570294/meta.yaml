@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/249346077861570294
+creation_time: 1762468387941
+experiment_id: '249346077861570294'
+last_update_time: 1762468387941
+lifecycle_stage: active
+name: Customer order prediction

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/249346077861570294/e4d73edb59dc48dca83c1bcb16359228/artifacts
+end_time: 1762468808585
+entry_point_name: ''
+experiment_id: '249346077861570294'
+lifecycle_stage: active
+run_id: e4d73edb59dc48dca83c1bcb16359228
+run_name: abrasive-worm-375
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762468744762
+status: 3
+tags: []
+user_id: Hp

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/249346077861570294/73aa74517e69408a8b3f9e4402e5753c/artifacts
+end_time: 1762478460372
+entry_point_name: ''
+experiment_id: '249346077861570294'
+lifecycle_stage: active
+run_id: 73aa74517e69408a8b3f9e4402e5753c
+run_name: nervous-goose-256
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762478418735
+status: 3
+tags: []
+user_id: Hp

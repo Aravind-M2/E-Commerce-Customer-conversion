@@ -1,0 +1,35 @@
+digest: 8f22df26
+name: dataset
+profile: '{"num_rows": 105903, "num_elements": 4130217}'
+schema: '{"mlflow_colspec": [{"type": "long", "name": "Unnamed: 0", "required": true},
+  {"type": "long", "name": "model_photography", "required": true}, {"type": "long",
+  "name": "page", "required": true}, {"type": "double", "name": "price_transformed",
+  "required": true}, {"type": "double", "name": "model_target_encoded", "required":
+  true}, {"type": "long", "name": "country_9", "required": true}, {"type": "long",
+  "name": "country_24", "required": true}, {"type": "long", "name": "country_29",
+  "required": true}, {"type": "long", "name": "country_46", "required": true}, {"type":
+  "long", "name": "country_RARE_GROUP", "required": true}, {"type": "long", "name":
+  "month_4", "required": true}, {"type": "long", "name": "month_5", "required": true},
+  {"type": "long", "name": "month_6", "required": true}, {"type": "long", "name":
+  "month_7", "required": true}, {"type": "long", "name": "month_8", "required": true},
+  {"type": "long", "name": "page1_main_category_1", "required": true}, {"type": "long",
+  "name": "page1_main_category_2", "required": true}, {"type": "long", "name": "page1_main_category_3",
+  "required": true}, {"type": "long", "name": "page1_main_category_4", "required":
+  true}, {"type": "long", "name": "colour_1", "required": true}, {"type": "long",
+  "name": "colour_2", "required": true}, {"type": "long", "name": "colour_3", "required":
+  true}, {"type": "long", "name": "colour_4", "required": true}, {"type": "long",
+  "name": "colour_5", "required": true}, {"type": "long", "name": "colour_6", "required":
+  true}, {"type": "long", "name": "colour_7", "required": true}, {"type": "long",
+  "name": "colour_8", "required": true}, {"type": "long", "name": "colour_9", "required":
+  true}, {"type": "long", "name": "colour_10", "required": true}, {"type": "long",
+  "name": "colour_11", "required": true}, {"type": "long", "name": "colour_12", "required":
+  true}, {"type": "long", "name": "colour_13", "required": true}, {"type": "long",
+  "name": "colour_14", "required": true}, {"type": "long", "name": "location_1", "required":
+  true}, {"type": "long", "name": "location_2", "required": true}, {"type": "long",
+  "name": "location_3", "required": true}, {"type": "long", "name": "location_4",
+  "required": true}, {"type": "long", "name": "location_5", "required": true}, {"type":
+  "long", "name": "location_6", "required": true}]}'
+source: '{"tags": {"mlflow.user": "Hp", "mlflow.source.name": "d:\\GIT HUB\\GUVI Mini
+  Proj 4\\clickstream_venv\\Lib\\site-packages\\ipykernel_launcher.py", "mlflow.source.type":
+  "LOCAL"}}'
+source_type: code
