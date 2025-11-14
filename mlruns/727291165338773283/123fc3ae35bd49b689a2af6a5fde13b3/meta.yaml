@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/727291165338773283/123fc3ae35bd49b689a2af6a5fde13b3/artifacts
+end_time: 1763077091627
+entry_point_name: ''
+experiment_id: '727291165338773283'
+lifecycle_stage: active
+run_id: 123fc3ae35bd49b689a2af6a5fde13b3
+run_name: Lasso
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763077082366
+status: 3
+tags: []
+user_id: Hp

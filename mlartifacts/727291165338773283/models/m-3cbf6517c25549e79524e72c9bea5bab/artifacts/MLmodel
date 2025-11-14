@@ -1,0 +1,55 @@
+artifact_path: mlflow-artifacts:/727291165338773283/models/m-3cbf6517c25549e79524e72c9bea5bab/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.11.7
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.2
+is_signature_from_type_hint: false
+mlflow_version: 3.5.1
+model_id: m-3cbf6517c25549e79524e72c9bea5bab
+model_size_bytes: 1404
+model_uuid: m-3cbf6517c25549e79524e72c9bea5bab
+prompts: null
+run_id: c577881ce4564609b91148dd72b780a6
+signature:
+  inputs: '[{"type": "long", "name": "Unnamed: 0", "required": true}, {"type": "long",
+    "name": "model_photography", "required": true}, {"type": "long", "name": "price_2",
+    "required": true}, {"type": "long", "name": "page", "required": true}, {"type":
+    "long", "name": "country_grouped_9", "required": true}, {"type": "long", "name":
+    "country_grouped_24", "required": true}, {"type": "long", "name": "country_grouped_29",
+    "required": true}, {"type": "long", "name": "country_grouped_46", "required":
+    true}, {"type": "long", "name": "country_grouped_RARE_GROUP", "required": true},
+    {"type": "long", "name": "page1_main_category_1", "required": true}, {"type":
+    "long", "name": "page1_main_category_2", "required": true}, {"type": "long", "name":
+    "page1_main_category_3", "required": true}, {"type": "long", "name": "page1_main_category_4",
+    "required": true}, {"type": "long", "name": "colour_1", "required": true}, {"type":
+    "long", "name": "colour_2", "required": true}, {"type": "long", "name": "colour_3",
+    "required": true}, {"type": "long", "name": "colour_4", "required": true}, {"type":
+    "long", "name": "colour_5", "required": true}, {"type": "long", "name": "colour_6",
+    "required": true}, {"type": "long", "name": "colour_7", "required": true}, {"type":
+    "long", "name": "colour_8", "required": true}, {"type": "long", "name": "colour_9",
+    "required": true}, {"type": "long", "name": "colour_10", "required": true}, {"type":
+    "long", "name": "colour_11", "required": true}, {"type": "long", "name": "colour_12",
+    "required": true}, {"type": "long", "name": "colour_13", "required": true}, {"type":
+    "long", "name": "colour_14", "required": true}, {"type": "long", "name": "location_1",
+    "required": true}, {"type": "long", "name": "location_2", "required": true}, {"type":
+    "long", "name": "location_3", "required": true}, {"type": "long", "name": "location_4",
+    "required": true}, {"type": "long", "name": "location_5", "required": true}, {"type":
+    "long", "name": "location_6", "required": true}, {"type": "double", "name": "month_sin",
+    "required": true}, {"type": "double", "name": "month_cos", "required": true},
+    {"type": "double", "name": "day_sin", "required": true}, {"type": "double", "name":
+    "day_cos", "required": true}, {"type": "double", "name": "model_target_encoded_scaled",
+    "required": true}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "float64", "shape": [-1]}}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2025-11-13 23:37:55.998713'

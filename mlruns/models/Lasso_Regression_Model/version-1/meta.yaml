@@ -1,0 +1,15 @@
+creation_timestamp: 1763077091454
+current_stage: None
+deployment_job_state: null
+description: ''
+last_updated_timestamp: 1763077091454
+model_id: m-29243a91dede4fb2bb3dcef9336427d8
+name: Lasso_Regression_Model
+run_id: 123fc3ae35bd49b689a2af6a5fde13b3
+run_link: ''
+source: models:/m-29243a91dede4fb2bb3dcef9336427d8
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/727291165338773283/models/m-29243a91dede4fb2bb3dcef9336427d8/artifacts
+user_id: null
+version: 1

@@ -1,0 +1,15 @@
+creation_timestamp: 1763077304381
+current_stage: None
+deployment_job_state: null
+description: ''
+last_updated_timestamp: 1763077304381
+model_id: m-e3ae57002f5848fdb64625d92086de80
+name: GradientBoostingRegressor_Regression_Model
+run_id: 9df6140ca5f2468db7a484a8a6625e42
+run_link: ''
+source: models:/m-e3ae57002f5848fdb64625d92086de80
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/727291165338773283/models/m-e3ae57002f5848fdb64625d92086de80/artifacts
+user_id: null
+version: 1

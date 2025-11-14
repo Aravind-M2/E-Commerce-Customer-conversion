@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/727291165338773283/9df6140ca5f2468db7a484a8a6625e42/artifacts
+end_time: 1763077304553
+entry_point_name: ''
+experiment_id: '727291165338773283'
+lifecycle_stage: active
+run_id: 9df6140ca5f2468db7a484a8a6625e42
+run_name: GradientBoostingRegressor
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763077091776
+status: 3
+tags: []
+user_id: Hp

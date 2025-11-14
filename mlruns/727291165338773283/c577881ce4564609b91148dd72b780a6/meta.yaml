@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/727291165338773283/c577881ce4564609b91148dd72b780a6/artifacts
+end_time: 1763077082274
+entry_point_name: ''
+experiment_id: '727291165338773283'
+lifecycle_stage: active
+run_id: c577881ce4564609b91148dd72b780a6
+run_name: Ridge
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763077061930
+status: 3
+tags: []
+user_id: Hp

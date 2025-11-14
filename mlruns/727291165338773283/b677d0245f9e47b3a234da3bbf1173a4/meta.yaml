@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/727291165338773283/b677d0245f9e47b3a234da3bbf1173a4/artifacts
+end_time: 1763077061671
+entry_point_name: ''
+experiment_id: '727291165338773283'
+lifecycle_stage: active
+run_id: b677d0245f9e47b3a234da3bbf1173a4
+run_name: LinearRegression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763077049976
+status: 3
+tags: []
+user_id: Hp
